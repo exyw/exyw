@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Emma Xu 👋</h1>
 
-<!--
-**exyw/exyw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎓 Computing & Software Systems @ The University of Melbourne <br/>
+  💡 Passionate about AI, data-driven sustainability, and creative software design <br/>
+  🌏 Based in Melbourne & Singapore
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">🔧 Projects</h2>
+<p align="center">
+  🧠 <a href="https://github.com/exyw/AI-brain-tumor-classifier">AI Brain Tumor Classifier</a> • 
+  🎮 <a href="https://github.com/exyw/Pseudo-Donkey-Kong">Pseudo Donkey Kong</a> • 
+  🚗 <a href="https://github.com/exyw/Road-Accident-Data-Analysis">Road Accident Data Analysis</a>
+</p>
+
+<h2 align="center">💻 Technologies</h2>
+<p align="center">
+  Python · Java · TensorFlow · scikit-learn · Pandas · Flask · Git
+</p>
+
+<p align="center">
+  📫 <a href="mailto:emmax@student.unimelb.edu.au">emmax@student.unimelb.edu.au</a> <br/>
+  🌐 <a href="https://au.linkedin.com/in/emma-xu-97a0b4287">LinkedIn</a> | 
+  <a href="https://github.com/exyw">GitHub</a>
+</p>
+
+<p align="center">
+  🧗 Outside of coding, I enjoy bouldering, playing tennis, and trying not to set my kitchen on fire
+</p>
