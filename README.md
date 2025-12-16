@@ -3,7 +3,7 @@
 <p align="center">
   🎓 Computing & Software Systems @ The University of Melbourne <br/>
   🚀 Passionate about AI, data-driven sustainability, and creative software design <br/>
-  🌏 Based in Melbourne & Singapore
+  🌏 Based in Melbourne
 </p>
 
 ---
@@ -13,6 +13,7 @@
   🧠 <a href="https://github.com/exyw/AI-brain-tumor-classifier">AI Brain Tumor Classifier</a> • 
   🦍 <a href="https://github.com/exyw/Pseudo-Donkey-Kong">Pseudo Donkey Kong</a> • 
   💥 <a href="https://github.com/exyw/Road-Accident-Data-Analysis">Road Accident Data Analysis</a>
+  🍲 <a>Coming soon... MoodyEats</a>
 </p>
 
 <h2 align="center">🪫 Technologies</h2>
